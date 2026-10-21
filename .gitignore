@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+uploads/
+load-tests/server.pid
+load-tests/results*.jsonl
+load-tests/diag-*.txt
+load-tests/unit-results.txt
+load-tests/
+TEST_RESULTS.md
